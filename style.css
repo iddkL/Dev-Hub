@@ -23,7 +23,7 @@ a:hover{
 }
 .container1{
 
-    background-image: url('Assets/background.jpg');
+    background-image: url('background.jpg');
     display: flex;
     flex-direction: column;
     align-items: center;
